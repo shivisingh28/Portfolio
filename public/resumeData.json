@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Shivangi Singh",
+    "occupation": "ReactJs Developer",
+    "description": "I'm passionate about my work and want to deliver high-end user experience to my clients , Also i am a Data Science & cloud computing enthusiast ",
+    "image": "img.jpg",
+    "bio": "Hey There !! I'm Shivangi, a Full Stack ReactJS Developer,currently looking for job opportunities ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "shivi2819997@gmail.com",
+    "phone": "+91 8318224284",
+    "address": {
+      "street": "Harbanshpur",
+      "city": "Azamgarh",
+      "state": "Uttar Pradesh",
+      "zip": "276001"
+    },
+    "website": "https://www.linkedin.com/in/shivangi-singh-b65381158/",
+    "resumedownload": "https://www.linkedin.com/in/shivangi-singh-b65381158/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shivangi.singh.73550/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shivangi-singh-b65381158/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shivi__singh28/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shivisingh28",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Jaypee University of Engineering and technology",
+        "degree": "BTech. Computer Science",
+        "graduated": "July 2020",
+        "description": "Graduated with Distinction 8.7 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Infosys",
+        "title": "System engineer Intern",
+        "years": "Feb 2020 - March 2020",
+        "description": "Got training in java as PL and SQL databases"
+      },
+      {
+        "company": "Infosys",
+        "title": "Software Engineer",
+        "years": "July 2020 - Current",
+        "description": "Working as a Systems Engineer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "JAVA",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19 Tracker",
+        "category": "Corona cases tracker built using React.js ,javascript, material ui",
+        "image": "covidtracker.png",
+        "url": "https://zen-ardinghelli-c9291c.netlify.app/"
+      },
+      {
+        "title": "Firebase Chat Application",
+        "category": "Chat Application built using firebase ,React.js, Material UI, Javascript ,CSS",
+        "image": "chatApp.png",
+        "url": "https://github.com/shivisingh28/ChatApp"
+      },
+      {
+        "title": "Amazon-clone ",
+        "category": "Amazon website built using Reactjs ,CSS,firebase,Redux & also added payment functionality using express and react-stripe-js",
+        "image": "Amazon.png",
+        "url": "https://github.com/shivisingh28/E-commerce"
+      },
+      {
+        "title": "Quiz Application",
+        "category": "Quiz App built with Vanilla Javascript",
+        "image": "quiz.png",
+        "url": "https://github.com/shivisingh28/Project1"
+      }
+     
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shivangi is a hard working and passionate to work kind of person. She loves the work she does and while doing it she does it with her full abilities.",
+        "user": "Shikhar Arora"
+      },
+      {
+        "text": "Shivangi is one of the most passionate developers I've  met! It was amazing working with her. Hey you, you should hire this girl, She may be fresh out of University and have zero on the job experience but I am confident that She will be one of your best developers in no time!",
+        "user": "Suraj Singh"
+      }
+    ]
+  }
+}
